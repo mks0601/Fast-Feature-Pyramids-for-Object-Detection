@@ -6,7 +6,7 @@ Yields similar performance with paper
 
 ACF feature used
 
-##Result
+##Result(green: GT, blue: detected pedestrian)
 ![acf](https://cloud.githubusercontent.com/assets/13601723/15353065/21459712-1d22-11e6-89b0-e46d5676dafe.png)
 
 ![3](https://cloud.githubusercontent.com/assets/13601723/15353119/55c302f4-1d22-11e6-9083-2053ee84a217.png)
