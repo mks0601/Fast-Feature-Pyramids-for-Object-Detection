@@ -3,7 +3,7 @@ http://vision.cornell.edu/se3/wp-content/uploads/2014/09/DollarPAMI14pyramids_0.
 
 Implemented with C++ using Random forest, boosted decision tree
 
-Yields similar performance with paper
+Yields similar performance with paper(Random forest: 14fps, Boosted Trees: 18fps)
 
 ACF feature used
 
