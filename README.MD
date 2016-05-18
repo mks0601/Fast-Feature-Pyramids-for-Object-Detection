@@ -1,5 +1,5 @@
 #Fast Feature pyramid for object detection
-(https://docs.google.com/viewer?url=http%3A%2F%2Fvision.cornell.edu%2Fse3%2Fwp-content%2Fuploads%2F2014%2F09%2FDollarPAMI14pyramids_0.pdf)
+http://vision.cornell.edu/se3/wp-content/uploads/2014/09/DollarPAMI14pyramids_0.pdf
 
 Implemented with C++ using Random forest, boosted decision tree
 
